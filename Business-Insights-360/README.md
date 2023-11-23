@@ -5,7 +5,7 @@
 AtliQ Hardware, a rapidly expanding consumer electronics company, is undertaking a significant initiative to enhance its competitive edge in the market. The primary goal is to transition from an Excel-based reporting system to an advanced analytics solution using Power BI. This strategic move is designed to equip AtliQ Hardware with comprehensive insights for informed decision-making.
 
 ## Project Description
-This project aims to develop an all-encompassing reporting tool that caters to stakeholders from sales, marketing, finance, and the executive team. It focuses on delivering a single, unified report that provides valuable, cross-departmental insights.
+This project aims to develop a reporting tool that caters to stakeholders from sales, marketing, finance, and the executive team. It focuses on delivering a single, unified report that provides valuable, cross-departmental insights.
 
 ## Project Goals
 1. **Robust Data Modeling:** Construct a dynamic and scalable data model that caters to various business requirements.
@@ -13,7 +13,6 @@ This project aims to develop an all-encompassing reporting tool that caters to s
 3. **Drillable Insights:** Offer detailed and actionable insights for finance, sales, marketing, supply chain, and executive teams.
 
 ## Technical Skills Learned
-Participants will enhance their technical skills in areas including:
 - Power Query for basic and advanced operations.
 - Creation of both basic and complex DAX formulas.
 - Data modeling involving more than 10 tables.
@@ -22,7 +21,6 @@ Participants will enhance their technical skills in areas including:
 - Deployment of projects on the Power BI service.
 
 ## Business Skills Learned
-The project also focuses on developing key business competencies:
 - Utilization of KPI indicators like Gross Margin, Net Profit, and Net Sales.
 - Application of Forecast Accuracy, Net Error, and Absolute Error in supply chain management.
 - Understanding fundamental financial terms.
