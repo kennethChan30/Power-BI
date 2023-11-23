@@ -1,4 +1,4 @@
-# Project Summary for AtliQ Hardware's Advanced Analytics Solution
+# Project Summary for ABusiness Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 **Dashboard Link:** [Business Insights 360 Dashboard for Finance, Sales, Marketing, and Supply Chain](https://www.novypro.com/project/business-insights-360-dashboard-for-finance-sales-marketing-and-supply-chain-power-bi)
 
 ## Project Information
