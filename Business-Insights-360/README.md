@@ -1,4 +1,5 @@
 # Project Summary for AtliQ Hardware's Advanced Analytics Solution
+**Dashboard Link:** [Business Insights 360 Dashboard for Finance, Sales, Marketing, and Supply Chain](https://www.novypro.com/project/business-insights-360-dashboard-for-finance-sales-marketing-and-supply-chain-4)
 
 ## Project Information
 AtliQ Hardware, a rapidly expanding consumer electronics company, is undertaking a significant initiative to enhance its competitive edge in the market. The primary goal is to transition from an Excel-based reporting system to an advanced analytics solution using Power BI. This strategic move is designed to equip AtliQ Hardware with comprehensive insights for informed decision-making.
@@ -26,3 +27,6 @@ The project also focuses on developing key business competencies:
 - Application of Forecast Accuracy, Net Error, and Absolute Error in supply chain management.
 - Understanding fundamental financial terms.
 - Amending reports based on feedback from stakeholder review meetings.
+
+#### Attributions
+- **Icons:** [Icons created by Freepik - Flaticon](https://www.flaticon.com/)
