@@ -8,9 +8,9 @@ AtliQ Hardware, a rapidly expanding consumer electronics company, is undertaking
 The objective of this project is to develop a comprehensive reporting tool designed for stakeholders in sales, marketing, finance, and the executive team. The focus is on creating a unified, user-friendly report that delivers valuable insights across various departments, thereby facilitating informed decision-making at all organizational levels.
 
 ## Project Goals
-1. **Robust Data Modeling:**
-2. **User-friendly Report Design:**
-3. **Drillable Insights:**
+1. Robust Data Modeling
+2. User-friendly Report Design
+3. Drillable Insights
 
 ## Technical Skills Learned
 - Power Query for basic and advanced operations.
