@@ -1,16 +1,16 @@
-# Project Summary for ABusiness Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
+# Project Summary for Business Insights 360 Dashboard
 **Dashboard Link:** [Business Insights 360 Dashboard for Finance, Sales, Marketing, and Supply Chain](https://www.novypro.com/project/business-insights-360-dashboard-for-finance-sales-marketing-and-supply-chain-power-bi)
 
 ## Project Information
 AtliQ Hardware, a rapidly expanding consumer electronics company, is undertaking a significant initiative to enhance its competitive edge in the market. The primary goal is to transition from an Excel-based reporting system to an advanced analytics solution using Power BI. This strategic move is designed to equip AtliQ Hardware with comprehensive insights for informed decision-making.
 
 ## Project Description
-This project aims to develop a reporting tool that caters to stakeholders from sales, marketing, finance, and the executive team. It focuses on delivering a single, unified report that provides valuable, cross-departmental insights.
+The objective of this project is to develop a comprehensive reporting tool designed for stakeholders in sales, marketing, finance, and the executive team. The focus is on creating a unified, user-friendly report that delivers valuable insights across various departments, thereby facilitating informed decision-making at all organizational levels.
 
 ## Project Goals
-1. **Robust Data Modeling:** Construct a dynamic and scalable data model that caters to various business requirements.
-2. **User-Empathetic Report Design:** Design an intuitive report interface that meets the needs of stakeholders from diverse departments.
-3. **Drillable Insights:** Offer detailed and actionable insights for finance, sales, marketing, supply chain, and executive teams.
+1. **Robust Data Modeling:**
+2. **User-friendly Report Design:**
+3. **Drillable Insights:**
 
 ## Technical Skills Learned
 - Power Query for basic and advanced operations.
